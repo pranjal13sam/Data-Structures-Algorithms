@@ -1,0 +1,26 @@
+//TIME COMPLEXITY:
+
+Time complexity doesn't mean take taken by a machine to execute the code.
+
+let's suppose i have 2 laptops, one laptop is macbook with latest windows and the other one is old windows laptop so it might happen that 
+for a program to run the macbook might only take 1s to execute while on the other hand because of the older version the old laptop might 2s 
+so this is the reason.
+
+so what is TIME COMPLEXITY?
+TIME COMPLEXITY means rate at which time taken increases with respect to input size.
+
+//IMPORTANT:
+.Time complexity should always be computed for worst case scenarios.
+.Avoid constants 
+.Avoid Lower Values
+
+
+
+
+//SPACE COMPLEXITY:
+
+space complexity=auxilary space + input space
+
+what is auxilary space?
+ex: a=b+c // so here we can see that a is the auxilary space because it is storing the value of b+c although it is not necessary
+while  b and c are considered as input space.
